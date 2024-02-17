@@ -64,6 +64,7 @@ Other findings
 •	The most number of 5-star ratings were given in 2007 
 •	In 2009, the products received the lowest ratings with an average rating of 3
 
-Conclusion
+## Conclusion
+
 This project was an interesting one. It pushed me to greatly improve my visualization skills and also helped me improve my analytical skills in total.
 you can interact with the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiODRkZTQ3MTQtMjUwZC00YmUwLTk2MzAtY2EwNTI1NmRmZmE5IiwidCI6Ijk0OTg2MDlmLTAxNWMtNDgwMS05MjA4LWNiMzdjYWFkMzc1YSIsImMiOjZ9)
